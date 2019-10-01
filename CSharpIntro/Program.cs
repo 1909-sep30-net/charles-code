@@ -68,6 +68,13 @@ namespace CSharpIntro
                 month = 12;
             else if(month <1)
                 month = 1;
+            else
+            {
+                /*
+                Make no adjustments.
+                Yes, this is a mutli-line comment example
+                 */;
+            }
 
             Console.Write("\nVia switch-case, the month is :");
             switch(month)
@@ -114,6 +121,17 @@ namespace CSharpIntro
                         break;
             }
             //end program
+
+            print("This is a static call to a simple print-method.  Yep, like the print you find in Pythyon!");
+
+            var genericVar = 234.56;
+
+            print("A generic var variable with no specified data type is " + genericVar.ToString() );
+        }
+
+        static void print(string theString)
+        {
+            Console.WriteLine(theString);
         }
     }
 }
