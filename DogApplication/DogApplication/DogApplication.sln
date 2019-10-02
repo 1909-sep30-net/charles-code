@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogApplication", "DogApplication\DogApplication.csproj", "{22C0BFA2-A8C3-4B8C-826D-4DA2D7F5DCED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22C0BFA2-A8C3-4B8C-826D-4DA2D7F5DCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22C0BFA2-A8C3-4B8C-826D-4DA2D7F5DCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22C0BFA2-A8C3-4B8C-826D-4DA2D7F5DCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22C0BFA2-A8C3-4B8C-826D-4DA2D7F5DCED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3283D3F-AFF1-4616-B604-DF74673533C1}
+	EndGlobalSection
+EndGlobal
